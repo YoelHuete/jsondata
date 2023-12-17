@@ -1,0 +1,49 @@
+{
+    "records": [
+        {
+          "id":1,
+          "name": "Yoel Huete",
+          "credit": 1420,
+          "debit": 820,
+          "savings": 320,
+          "currency": "USD"
+        },
+
+        {
+         "id": 2,
+         "name": "Yoel Huete",
+         "credit": 1420,
+         "debit": 820,
+         "savings": 320,
+         "currency": "USD"
+        },
+
+        {
+          "id": 3,
+          "name": "Yoel Huete",
+          "credit": 1420,
+          "debit": 820,
+          "savings": 320,
+          "currency": "USD"
+        },
+
+        {
+          "id": 4,
+          "name": "Yoel Huete",
+          "credit": 1420,
+          "debit": 820,
+          "savings": 320,
+          "currency": "USD"
+        },
+
+        {
+          "id": 5,
+          "name": "Yoel Huete",
+          "credit": 1420,
+          "debit": 820,
+          "savings": 320,
+          "currency": "USD"
+        } 
+
+    ]
+}
